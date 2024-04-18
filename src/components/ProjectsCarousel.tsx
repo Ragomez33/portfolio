@@ -5,7 +5,6 @@ import { SlideContent } from './SlideContent';
 import { PROJECTS } from '../constants';
 
 const CarouselContainer = styled.div`
-    cursor: pointer;
     -webkit-box-shadow: -1px 10px 22px -7px rgba(0,0,0,1);
     -moz-box-shadow: -1px 10px 22px -7px rgba(0,0,0,1);
     box-shadow: -1px 10px 22px -7px rgba(0,0,0,1);
@@ -27,6 +26,7 @@ export const ProjectsCarousel: React.FC = () => {
             description={item.description}
             tools={item.tools}
             position={item.position}
+            images={item.images}
           />
         ))}
       </Carousel>

@@ -15,7 +15,7 @@ const DivStyled = styled.div<{ display: boolean }>(({ display }) => ({
 export const ProjectsSecion: React.FC<ProjectsSecionProps> = ({ display }) => {
   return (
     <DivStyled
-      display={display}
+      display
       className='fade-in-animation'>
       <Space direction='vertical' size='small'>
         <Typography.Title
