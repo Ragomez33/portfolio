@@ -43,7 +43,7 @@ export const Header: React.FC = () => {
         </Col>
         <Col xs={5} sm={3} md={3} xl={2}>
           <IconContainerRadius>
-            <a href="https://github.com/Ragomez33" title='' target='_blank' rel="noreferrer">
+            <a href="https://www.linkedin.com/in/raulalbertogomez/" title='' target='_blank' rel="noreferrer">
               <Image src={LinkedinIcon} preview={false} />
             </a>
           </IconContainerRadius>
