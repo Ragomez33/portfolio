@@ -1,13 +1,43 @@
 {
   "files": {
     "main.css": "/ragomez33-webpage/static/css/main.ac2d9565.css",
-    "main.js": "/ragomez33-webpage/static/js/main.46cd47f1.js",
+    "main.js": "/ragomez33-webpage/static/js/main.a45b46e6.js",
+    "static/media/americanarbor2.png": "/ragomez33-webpage/static/media/americanarbor2.e8424f4d8b02aa889c81.png",
+    "static/media/exde-3.png": "/ragomez33-webpage/static/media/exde-3.74dce74d778d9c1a4dc7.png",
+    "static/media/cobuild-4.png": "/ragomez33-webpage/static/media/cobuild-4.b898299baff667cf5a76.png",
+    "static/media/cobuild-2.png": "/ragomez33-webpage/static/media/cobuild-2.e774feaa5114b752f0b3.png",
+    "static/media/exde-6.png": "/ragomez33-webpage/static/media/exde-6.2828f42c77206656f6c7.png",
+    "static/media/cobuildlab-1.png": "/ragomez33-webpage/static/media/cobuildlab-1.b24019ec607a66318844.png",
+    "static/media/cobuild-5.png": "/ragomez33-webpage/static/media/cobuild-5.b0be80abda83975d490e.png",
+    "static/media/americanarbor7.png": "/ragomez33-webpage/static/media/americanarbor7.18d0a1faabb44f72e0c7.png",
+    "static/media/exde-7.png": "/ragomez33-webpage/static/media/exde-7.317b14ed31f33ddf6555.png",
+    "static/media/americanarbor8.png": "/ragomez33-webpage/static/media/americanarbor8.b005c2690f7484a23792.png",
+    "static/media/americanarbor5.png": "/ragomez33-webpage/static/media/americanarbor5.6207df3726244bf29311.png",
+    "static/media/exde-5.png": "/ragomez33-webpage/static/media/exde-5.7e70e36643e4a394d5f6.png",
+    "static/media/exde-2.png": "/ragomez33-webpage/static/media/exde-2.9da541e0ae3d3dd781c2.png",
+    "static/media/exde-1.png": "/ragomez33-webpage/static/media/exde-1.f8903a04d29d570d05e9.png",
+    "static/media/americanarbor3.png": "/ragomez33-webpage/static/media/americanarbor3.87d5c21bf9ab21408cec.png",
+    "static/media/camron_5.png": "/ragomez33-webpage/static/media/camron_5.9487a390332d9fddee8e.png",
+    "static/media/americanarbor4.png": "/ragomez33-webpage/static/media/americanarbor4.d4045330c9aa29a1e8e8.png",
+    "static/media/camron_9.png": "/ragomez33-webpage/static/media/camron_9.86aba925ca91288f18ba.png",
+    "static/media/cobuild-3.png": "/ragomez33-webpage/static/media/cobuild-3.5f4eaa73e1f7682db10e.png",
+    "static/media/camron_10.png": "/ragomez33-webpage/static/media/camron_10.104b6410faeec5cdbeb3.png",
+    "static/media/camron_8.png": "/ragomez33-webpage/static/media/camron_8.b8c8ed03dba7a0239ace.png",
+    "static/media/camron_4.png": "/ragomez33-webpage/static/media/camron_4.31bfd888548093942e67.png",
+    "static/media/americanarbor6.png": "/ragomez33-webpage/static/media/americanarbor6.750cf71451f1a014461d.png",
+    "static/media/exde-4.png": "/ragomez33-webpage/static/media/exde-4.e84cee135c3e14137193.png",
+    "static/media/americanarbor1.png": "/ragomez33-webpage/static/media/americanarbor1.607fecd6ff73c1373ce0.png",
+    "static/media/camron_2.png": "/ragomez33-webpage/static/media/camron_2.eeb35430beebb6a967e6.png",
+    "static/media/camron_3.png": "/ragomez33-webpage/static/media/camron_3.cb524fd32aa0b0df237a.png",
+    "static/media/camron_6.png": "/ragomez33-webpage/static/media/camron_6.e25b60e24ac0c0a5195d.png",
+    "static/media/camron_7.png": "/ragomez33-webpage/static/media/camron_7.fad448f738ab2075056b.png",
+    "static/media/camron_1.png": "/ragomez33-webpage/static/media/camron_1.fc3fca530d2efb754bd4.png",
     "index.html": "/ragomez33-webpage/index.html",
     "main.ac2d9565.css.map": "/ragomez33-webpage/static/css/main.ac2d9565.css.map",
-    "main.46cd47f1.js.map": "/ragomez33-webpage/static/js/main.46cd47f1.js.map"
+    "main.a45b46e6.js.map": "/ragomez33-webpage/static/js/main.a45b46e6.js.map"
   },
   "entrypoints": [
     "static/css/main.ac2d9565.css",
-    "static/js/main.46cd47f1.js"
+    "static/js/main.a45b46e6.js"
   ]
 }
