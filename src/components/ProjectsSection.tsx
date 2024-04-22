@@ -9,7 +9,11 @@ type ProjectsSecionProps = {
 }
 
 const DivStyled = styled.div<{ display: boolean }>(({ display }) => ({
-  display: display ? 'block' : 'none'
+  display: display ? 'block' : 'none',
+  marginBottom: 50,
+  '@media(max-width: 413px)': {
+    width: '90vw',
+  }
 }));
 
 export const ProjectsSecion: React.FC<ProjectsSecionProps> = ({ display }) => {
@@ -17,7 +21,11 @@ export const ProjectsSecion: React.FC<ProjectsSecionProps> = ({ display }) => {
     <DivStyled
       display={display}
       className='fade-in-animation'>
-      <Space direction='vertical' size='small'>
+      <Space direction='vertical' size='small'
+        style={{
+          justifyContent: 'center',
+          width: '100%'
+        }}>
         <Typography.Title
           style={{
             color: '#d1d1d1',
@@ -33,7 +41,11 @@ export const ProjectsSecion: React.FC<ProjectsSecionProps> = ({ display }) => {
           }}>
           Some of the projects where I have collaborated:
         </Typography.Text>
-        <ProjectsCarousel />
+        <div style={{
+          height: '500px',
+        }}>
+          <ProjectsCarousel />
+        </div>
       </Space>
     </DivStyled>
   )

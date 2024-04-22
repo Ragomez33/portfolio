@@ -14,6 +14,10 @@ padding-top: 6rem;
 const IconContainer = styled.div`
 width: 50px;
 height: 50px;
+@media (max-width: 413px)
+ width: 40px;
+height: 40px;
+}
 `;
 const IconContainerRadius = styled.div`
 width: 42px;
@@ -22,6 +26,9 @@ border-radius: 50px;
 border: solid 1px #fff;
 background-color: #fff;
 padding: 4px;
+@media (max-width: 413px)
+ width: 30px;
+}
 `;
 export const Header: React.FC = () => {
   return (

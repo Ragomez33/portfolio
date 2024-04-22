@@ -13,6 +13,10 @@ const CarouselContainer = styled.div`
     width: 75vw;
     margin-bottom: 3rem;
     margin-top: 3rem;
+    height: auto;
+    @media (max-width: 413px) {
+    width: 90vw;
+    }
 `;
 
 export const ProjectsCarousel: React.FC = () => {
@@ -27,6 +31,7 @@ export const ProjectsCarousel: React.FC = () => {
             tools={item.tools}
             position={item.position}
             images={item.images}
+            url={item.url}
           />
         ))}
       </Carousel>

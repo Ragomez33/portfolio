@@ -8,6 +8,13 @@ const Container = styled.div`
   align-items: center;
 `;
 
+const InnerContainer = styled.div`
+  width: 75%;
+ @media (max-width: 413px){
+  width: 90%;
+  }
+`;
+
 type MainContainerProps = {
   children: ReactNode;
 }
@@ -15,11 +22,9 @@ type MainContainerProps = {
 export const MainContainer: React.FC<MainContainerProps> = ({ children }) => {
   return (
     <Container>
-      <div style={{
-        width: '75%'
-      }}>
+      <InnerContainer>
         {children}
-      </div>
+      </InnerContainer>
     </ Container >
   )
 }

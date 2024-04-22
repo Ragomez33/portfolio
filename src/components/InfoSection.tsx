@@ -11,8 +11,11 @@ import { ProjectsSecion } from './ProjectsSection';
 import '../css/info-card.css';
 
 const IconContainer = styled.div`
-width: 100px;
-height: 80px;
+    width: 100px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 `;
 
 export const InfoSection: React.FC = () => {
