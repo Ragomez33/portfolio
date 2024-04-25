@@ -36,7 +36,7 @@ export const Header: React.FC = () => {
       <Row justify='end'>
         <Col xs={5} sm={3} md={3} xl={2}>
           <IconContainerRadius>
-            <a href="mailto:raggmagm@gmail.com" title='' target='_blank' rel="noreferrer">
+            <a href="mailto:gomezraul3312@gmail.com" title='' target='_blank' rel="noreferrer">
               <Image src={GmailIcon} preview={false} />
             </a>
           </IconContainerRadius>
